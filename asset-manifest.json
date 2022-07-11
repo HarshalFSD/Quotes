@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quotes/static/css/main.72c751f7.css",
+    "main.js": "/quotes/static/js/main.70806675.js",
+    "static/media/blackPanther.jpg": "/quotes/static/media/blackPanther.50752760fdf10a98480e.jpg",
+    "static/media/kingLion.jpg": "/quotes/static/media/kingLion.0c8bd956793ed22abedb.jpg",
+    "index.html": "/quotes/index.html",
+    "main.72c751f7.css.map": "/quotes/static/css/main.72c751f7.css.map",
+    "main.70806675.js.map": "/quotes/static/js/main.70806675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c751f7.css",
+    "static/js/main.70806675.js"
+  ]
+}
